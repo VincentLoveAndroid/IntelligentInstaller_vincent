@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntelligentInstaller</string>
+    <string name="tips">点击以上开关开启智能安装</string><!--在辅助功能里面的提示-->
+</resources>
